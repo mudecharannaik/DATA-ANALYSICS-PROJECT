@@ -28,13 +28,26 @@
 8. **Competitive Analysis** : Comparing the company’s sales performance with that of competi tors to identify strengths, weaknesses, and opportunities in the market. • Store sales and profit analysis help businesses identify areas for improvement and make data driven decisions to optimize their operations, pricing, marketing, and inventory management strategies to drive revenue and growth
 
 #### Case Study 1 : SuperStore Sales Analysis
-#####     "**OBJECTIVE**\n",
-    "1.  What is the overall sales trend\n",
-    "2. Sales by Category?\n",
-    "3. Sales by Sub-Category?\n",
-    "4. Profit Analysis\n",
-    "5. Profit analysis by customer segments:\n",
-    "6. Which are the Top 10 products by sales?\n",
-    "7. Which are the Most Selling Products?\n",
-    "8. Which is the most preferred Ship Mode?\n",
-    "9. Which are the Most Profitable Category and Sub-Category?-Category"
+#### Objective
+##### • What is the overall sales trend?
+##### • Sales by Category?
+##### • Sales by Sub-Category?
+##### • Profit Analysis
+##### • Profit analysis by customer segments:
+##### • Which are the Top 10 products by sales?
+##### • Which are the Most Selling Products?
+##### • Which is the most preferred Ship Mode?
+##### • Which are the Most Profitable Category and Sub-Category?
+
+
+
+####  Case Study 2: To analyze and answer business questions about 12 month worth of sales data.
+#### The data contains hundreds of thousands of electronics store purchases broken down by month,product type, cost, purchase address, etc
+
+
+#### Case Study 3 :
+#### Create a report for an upcoming board meeting. Go through and analyze the sales data from 2015-2017 in order to generate the requested report. The report should capture the following;
+##### • Revenue by region
+##### • Revenue by sales Rep
+##### • Revenue by products
+##### • Sales trend ##### • Yearly changes in revenue
