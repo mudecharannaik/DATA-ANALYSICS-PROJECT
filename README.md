@@ -27,4 +27,14 @@
 7. **Sales Forecasting**: Using historical sales data and predictive analytics to forecast future sales volumes and revenue.
 8. **Competitive Analysis** : Comparing the company’s sales performance with that of competi tors to identify strengths, weaknesses, and opportunities in the market. • Store sales and profit analysis help businesses identify areas for improvement and make data driven decisions to optimize their operations, pricing, marketing, and inventory management strategies to drive revenue and growth
 
-
+#### Case Study 1 : SuperStore Sales Analysis
+#####     "**OBJECTIVE**\n",
+    "1.  What is the overall sales trend\n",
+    "2. Sales by Category?\n",
+    "3. Sales by Sub-Category?\n",
+    "4. Profit Analysis\n",
+    "5. Profit analysis by customer segments:\n",
+    "6. Which are the Top 10 products by sales?\n",
+    "7. Which are the Most Selling Products?\n",
+    "8. Which is the most preferred Ship Mode?\n",
+    "9. Which are the Most Profitable Category and Sub-Category?-Category"
