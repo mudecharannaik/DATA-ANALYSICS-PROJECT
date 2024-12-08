@@ -10,6 +10,8 @@
 
 ## Project 2. Sales_Analysis
 
+### Source of DataSet is https://www.kaggle.com/code/amirmotefaker/superstore-sales-analysis
+
 #### Description:
 
 ##### Sales analysis is the process of examining and evaluating sales data to gain insights into the perfor mance of a company’s products or services. It involves analyzing various aspects of sales, such as trends, patterns, customer behavior, and performance metrics, to make informed business decisions. Sales analysis helps companies understand their sales performance, identify areas of strength and weakness, pinpoint opportunities for growth, and develop strategies to improve sales effectiveness.
